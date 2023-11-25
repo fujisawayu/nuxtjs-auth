@@ -1,3 +1,6 @@
 [submodule "api"]
 	path = api
 	url = ./api
+[submodule "front"]
+	path = front
+	url = https://github.com/fujisawayu/nuxtjs-auth-front
